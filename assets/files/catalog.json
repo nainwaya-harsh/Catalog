@@ -1,0 +1,82 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Apple new phone",
+            "price": 109900,
+            "color": "33505a",
+            "image": "https://www.pngmart.com/files/15/Apple-iPhone-12-PNG-HD.png"
+        },
+        {
+            "id": 2,
+            "name": "iphone 13 pro",
+            "desc": "Apple latest 13 pro",
+            "price": 120000,
+            "color": "33505a",
+            "image": "https://ismart.co.in/wp-content/uploads/2021/09/iphone-13-pro-graphite-select.png"
+        },
+        {
+            "id": 3,
+            "name": "Google pixel",
+            "desc": "Google pixel 4th generation",
+            "price": 79999,
+            "color": "33505a",
+            "image": "https://lh3.googleusercontent.com/rOk899xWpz7gucQADZrVmGeziszDavjTPzTPb87V1fjYT-xstKc9P-gUs1FEd7tvmYrSE4rtyq8LEavAElBCHSMhW8h5Teldv6Wg=rw-e365-w1182"
+        },
+        {
+            "id": 4,
+            "name": "Samsung S21 Ultra",
+            "desc": "Samsung most awaited mobile",
+            "price": 92300,
+            "color": "33505a",
+            "image": "https://www.cnet.com/a/img/resize/3e495e5ec2d57f5893947cb6497fd9f4cf236c4e/hub/2021/01/20/5ac18449-617c-49ba-83f2-2971cb51078c/215-samsung-galaxy-s21-ultra-back.jpg?auto=webp&fit=crop&height=1200&width=1200"
+        },
+        {
+            "id": 5,
+            "name": "Xiaomi Mi 12s",
+            "desc": "New xiaomi ultra",
+            "price": 105999,
+            "color": "33505a",
+            "image": "https://www.notebookcheck.net/uploads/tx_nbc2/pms_1656916095.70948543.png"
+        },
+        {
+            "id": 6,
+            "name": "One Plus Nord",
+            "desc": "Latest one plus Nord",
+            "price": 23990,
+            "color": "33505a",
+            "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
+        },
+        {
+            "id": 7,
+            "name": "iQoo Z6",
+            "desc": "Iqoo Z6 Raven",
+            "price": 14499,
+            "color": "33505a",
+            "image": "https://in-exstatic-vivofs.iqoo.com/jCRQLfkJ0cXr10qJ/1651299968924/b7edf0b06b30c3b76b18e61a3301b507.png"
+        },
+        {
+            "id": 8,
+            "name": "One Plus 11R",
+            "desc": "Latest One plus 11R",
+            "price": 39999,
+            "color": "33505a",
+            "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/in/oneplus-10t/specs/10r-blue.png"
+        },{
+            "id": 9,
+            "name": "Oppo Find N2",
+            "desc": "Oppo Find N2 fliping Phone",
+            "price": 71190,
+            "color": "33505a",
+            "image": "https://image.oppo.com/content/dam/oppo/product-asset-library/find/find-n2-series/global/find-n2-flip/v1/assets/images-kv-en-purple-mo-1.png.webp"
+        },{
+            "id": 10,
+            "name": "real Me ",
+            "desc": "Real me GT Neo",
+            "price": 31690,
+            "color": "33505a",
+            "image": "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/r/e/realme_gt_neo_flash-1_1.png"
+        }
+    ]
+}

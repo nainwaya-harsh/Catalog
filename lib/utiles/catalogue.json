@@ -1,0 +1,12 @@
+{
+    "products":[
+        {
+            "id":"codepur001",
+            "name":"iphone 12 pro",
+            "desc":"Apple new phone",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-3.jpg"
+        }
+    ]
+}
